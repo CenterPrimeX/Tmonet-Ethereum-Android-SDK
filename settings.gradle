@@ -1,0 +1,3 @@
+include ':tmonet_ethereum_sdk'
+include ':app'
+rootProject.name = "TmonetEthereumSDK"
